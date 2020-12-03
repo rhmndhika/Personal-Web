@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Preview : https://project-uts-lab.vercel.app/index.html
+Preview : https://rahmandhika-web.vercel.app/
 
 ## You need to 
 $ npm install --save @fortawesome/react-fontawesome @fortawesome/fontawesome-svg-core @fortawesome/free-brands-svg-icons
