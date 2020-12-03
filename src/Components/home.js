@@ -9,6 +9,7 @@ import Box from '@material-ui/core/Box';
 import NextAbout from './about';
 import Experience from './ex';
 import SocialFollow from "./socialfollow"
+import  SimpleMenu from "./project"
 
 
 function TabPanel(props) {
@@ -76,7 +77,8 @@ export default function SimpleTabs() {
         <Experience />
       </TabPanel>
       <TabPanel value={value} index={2}>
-       XD!!
+       <h2>List Project yang gua buat :</h2>
+       <SimpleMenu />
       </TabPanel>
       <TabPanel value={value} index={3}>
       <SocialFollow />
