@@ -1,0 +1,10 @@
+.CardStyle{
+    border: 1px solid #eee;
+    background-color: blue;
+    border-radius: 8px;
+    padding: 20px;
+    width: 150px;
+    box-shadow: 0px 2px 2px #ccc;
+    display: inline-block;
+    margin-right: 10px;
+  }

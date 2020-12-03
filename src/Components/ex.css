@@ -1,0 +1,15 @@
+.ExStyle{
+    border: 1px solid #eee;
+    background-color: royalblue;
+    border-radius: 8px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0px 2px 2px #ccc;
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 5px;
+    margin-top: 10px;
+    display: inline-block;
+    position: relative;
+    color: black;
+}
