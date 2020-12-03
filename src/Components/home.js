@@ -77,7 +77,7 @@ export default function SimpleTabs() {
         <Experience />
       </TabPanel>
       <TabPanel value={value} index={2}>
-       <Buttons /> 
+       Dalam Proses...
       </TabPanel>
       <TabPanel value={value} index={3}>
       <SocialFollow />

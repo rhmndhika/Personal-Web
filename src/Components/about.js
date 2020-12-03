@@ -20,9 +20,7 @@ function NextAbout () {
   return(
     <div>
     <About name="Rahmandhika" kampus="UMN" />
-    <p>Hello guys my name is Rahmandhika and i'm currently studying at Universitas Multimedia
-       Nusantara. My Jurusan is Informatika. iam currently trying to learn ReactJS, and this
-       website is made using ReactJS. I Hope you liked it !!.
+    <p>Proses...
     </p>
     </div>
   )
