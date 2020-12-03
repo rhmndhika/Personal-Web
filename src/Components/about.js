@@ -8,7 +8,7 @@ import './about.css'
 function About (props) {
   return(
       <div className="CardStyle">
-      <img className="Gambar1" src={CeBayed}></img>
+      <img className="Gambar1" src={CeBayed} alt="description of image" ></img>
       <p className="Title">{props.name}</p>
       <p>{props.kampus}</p>
       </div>

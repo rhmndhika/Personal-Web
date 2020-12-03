@@ -8,7 +8,6 @@ import Typography from '@material-ui/core/Typography';
 import Box from '@material-ui/core/Box';
 import NextAbout from './about';
 import Experience from './ex';
-import Buttons from './button';
 import SocialFollow from "./socialfollow"
 
 
@@ -77,7 +76,7 @@ export default function SimpleTabs() {
         <Experience />
       </TabPanel>
       <TabPanel value={value} index={2}>
-       Dalam Proses...
+       XD!!
       </TabPanel>
       <TabPanel value={value} index={3}>
       <SocialFollow />
