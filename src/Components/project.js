@@ -6,7 +6,12 @@ import MenuItem from '@material-ui/core/MenuItem';
 
 function Test () {
     alert("Go To...")
-    window.location.replace("https://project-uts-lab.vercel.app/")
+    window.open("https://project-uts-lab.vercel.app/")
+}
+
+function Test1 () {
+  alert("Go To...")
+  window.open("https://project-uts-teori.vercel.app/")
 }
 
 export default function SimpleMenu() {
@@ -33,7 +38,7 @@ export default function SimpleMenu() {
           onClose={handleClose}
         >
           <MenuItem onClick={Test}>Project-UAS-LAB</MenuItem>
-          <MenuItem onClick={handleClose}>Project-UAS-Teori</MenuItem>
+          <MenuItem onClick={Test1}>Project-UAS-Teori</MenuItem>
         </Menu>
       </div>
     );
